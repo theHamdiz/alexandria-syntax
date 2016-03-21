@@ -1,0 +1,19 @@
+{
+  "name": "alexandria-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A colorful and beautiful syntax theme built on top of steam pirate",
+  "keywords": [
+    "syntax",
+    "theme",
+    "alexandria-syntax",
+    "egypt-syntax",
+    "arab-syntax",
+    "ahmad-hamdi-syntax"
+  ],
+  "repository": "https://github.com/atom/alexandria-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
